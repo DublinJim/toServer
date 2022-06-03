@@ -5,5 +5,9 @@ public class Main {
         System.out.println("Hello world! from a new angle");
         System.out.println("conflict the line");
     System.out.println("line 2 from pc ");
+        System.out.println("line 2 from pc ");
+        System.out.println("line 3 from pc ");
+
+
     }
 }
