@@ -9,10 +9,6 @@ public class Main {
         System.out.println("line 3 from pc ");
         System.out.println("line 4 from pc ");
 
-        //this is the branch called local
-
-//adding a new line
-
 
 
 
