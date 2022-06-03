@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d4c3d-ee58-4dd5-8b29-854f700ded65" name="Changes" comment="multiple line added">
+    <list default="true" id="4c4d4c3d-ee58-4dd5-8b29-854f700ded65" name="Changes" comment="removes lines too">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654280808721</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="removes lines too">
+      <created>1654281910007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654281910007</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +146,7 @@
     <MESSAGE value="line 3 added" />
     <MESSAGE value="line 4 added" />
     <MESSAGE value="multiple line added" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiple line added" />
+    <MESSAGE value="removes lines too" />
+    <option name="LAST_COMMIT_MESSAGE" value="removes lines too" />
   </component>
 </project>
