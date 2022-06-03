@@ -10,12 +10,7 @@ public class Main {
         System.out.println("line 4 from pc ");
 
 
-        System.out.println("line 2 from pc ");
-        System.out.println("line 3 from pc ");
-        System.out.println("line 4 from pc ");
-        System.out.println("line 2 from pc ");
-        System.out.println("line 3 from pc ");
-        System.out.println("line 4 from pc ");
+
 
 
         System.out.println("line 2 from pc ");
