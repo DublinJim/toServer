@@ -6,7 +6,7 @@ public class Main {
         System.out.println("now we add a line");
 
     System.out.println("line 2 from pc ");
-
+//a comment
         System.out.println("add another line 3");
     }
 }
