@@ -12,7 +12,7 @@ public class Main {
         //this is the branch called local
 
 
-//this is the one on the server made by desktop
+
 
 
         System.out.println("line 2 from pc ");
