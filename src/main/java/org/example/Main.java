@@ -10,7 +10,7 @@ public class Main {
         System.out.println("line 4 from pc ");
 
 
-//now I add lines
+//my commit 1
 
 //commit 1
 
