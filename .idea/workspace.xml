@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d4c3d-ee58-4dd5-8b29-854f700ded65" name="Changes" comment="">
+    <list default="true" id="4c4d4c3d-ee58-4dd5-8b29-854f700ded65" name="Changes" comment="Mondays">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654282391495</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Mondays">
+      <created>1654519085412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654519085412</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +148,7 @@
     <MESSAGE value="line 4 added" />
     <MESSAGE value="multiple line added" />
     <MESSAGE value="put a comment in there" />
-    <option name="LAST_COMMIT_MESSAGE" value="put a comment in there" />
+    <MESSAGE value="Mondays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mondays" />
   </component>
 </project>
