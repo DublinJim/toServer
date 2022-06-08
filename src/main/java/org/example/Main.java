@@ -10,12 +10,6 @@ public class Main {
         System.out.println("line 4 from pc ");
 
 
-//my commit 1
-
-//commit 1
-
-        //commit 2
-        //commit 3
 
         System.out.println("line 2 from pc ");
         System.out.println("line 3 from pc ");
