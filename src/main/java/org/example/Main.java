@@ -13,6 +13,6 @@ public class Main {
         System.out.println("line 4 from pc ");
     // I want a commenty too
     System.out.println( "bullshit");
-    //thak god for christmas
+    //thank god for Christmas
     }
 }
